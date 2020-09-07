@@ -1,0 +1,7 @@
+^renv$
+^renv\.lock$
+^aphhansard\.Rproj$
+^\.Rproj\.user$
+^\.drake$
+^LICENSE\.md$
+^\.github$
